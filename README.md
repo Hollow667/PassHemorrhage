@@ -4,7 +4,7 @@
 Basically its a model based on [_PassGAN_](https://github.com/brannondorsey/PassGAN) along with [_Common User Password Profiler_](https://github.com/Mebus/cupp) for users to create their own password lists with the help of AI.
 
 ## How it works
-[!alt tag](https://miro.medium.com/max/1400/1*5rMmuXmAquGTT-odw-bOpw.jpeg)
+![alt tag](https://miro.medium.com/max/1400/1*5rMmuXmAquGTT-odw-bOpw.jpeg)
 Basically the passgen generates a set of password combo in the folder dataset from keywords given by the user and then the Generator trains on that dataset to generate its own words from that passwordlist and the Discriminator tells if the generated samples are provided by the generator or from the dataset and by repeating the process both the Generator and the Discriminator gets better in their job of generating and detecting passwords.
 
 ## Installation
