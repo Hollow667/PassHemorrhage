@@ -38,3 +38,6 @@ python3 main.py -pg
 
 ## Credits 
 Thanks to both [_brannondorsey_](https://github.com/brannondorsey) and [_Mebus_](https://github.com/Mebus) who made it possible
+
+## LICENSE
+[![license](https://img.shields.io/github/license/Chr0m0s0m3s/DeadTrap.svg?style=flat-square)](https://github.com/Chr0m0s0m3s/PassCracker/blob/master/LICENSE)
