@@ -1,7 +1,7 @@
 ![alt tag](https://i.postimg.cc/GmdZdfb1/image-removebg-preview.png)
 
 ## What is It?
-Basically its a model based on [_PassGAN_](https://github.com/brannondorsey/PassGAN) along with [_Common User Password Profiler_](https://github.com/Mebus/cupp) for users to create their own password lists with the help of AI.
+Its a model based on [_PassGAN_](https://github.com/brannondorsey/PassGAN) along with [_Common User Password Profiler_](https://github.com/Mebus/cupp) for users to create their own password lists with the help of AI.
 
 ## How it works
 ![alt tag](https://miro.medium.com/max/1400/1*5rMmuXmAquGTT-odw-bOpw.jpeg)
