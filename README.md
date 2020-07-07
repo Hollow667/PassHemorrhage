@@ -1,4 +1,4 @@
-![alt tag](https://o.remove.bg/downloads/372615ce-904d-4fa6-910c-29ad9b06c0f4/image-removebg-preview.png)
+![alt tag](https://i.postimg.cc/GmdZdfb1/image-removebg-preview.png)
 
 ## What is It?
 Basically its a model based on [_PassGAN_](https://github.com/brannondorsey/PassGAN) along with [_Common User Password Profiler_](https://github.com/Mebus/cupp) for users to create their own password lists with the help of AI.
