@@ -8,7 +8,7 @@ Basically its a model based on [_PassGAN_](https://github.com/brannondorsey/Pass
 Basically the passgen generates a set of password combo in the folder dataset from keywords given by the user and then the Generator trains on that dataset to generate its own words from that passwordlist and the Discriminator tells if the generated samples are provided by the generator or from the dataset and by repeating the process both the Generator and the Discriminator gets better in their job of generating and detecting passwords.
 
 ## Installation
-If you are on AMD GPU and Linux (Debian Based Distros):
+If you are on AMD GPU and Linux (Debian Based Distros),
 Run the following in your terminal :
 
 ```
@@ -25,7 +25,7 @@ pip3 install --user tensorflow-rocm
 ```
 for a more detailed installation docs go to [_Install AMD ROCm_](https://rocmdocs.amd.com/en/latest/Installation_Guide/Installation-Guide.html)
 
-If you are on CUDA GPU:
+If you are on CUDA GPU,
 Run the following in your terminal :
 ```
 pip3 install tensorflow-gpu
